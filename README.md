@@ -39,8 +39,10 @@ This is a community based app established to provide a fully functional Universi
 </em></li>
 <li><em> log in using default username and password ie admin admin
 </em></li>
+
+
 ## Project Output
-####Login form: This page represents the first thing about our website. It leads on to the login point for its personnel.
+#### Login form: This page represents the first thing about our website. It leads on to the login point for its personnel.
 ![HOME](/University-Management-System-Project-in-Java-Login-Page.png)
 
 
