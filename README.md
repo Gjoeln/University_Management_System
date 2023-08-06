@@ -46,9 +46,25 @@ This system project provides a user-friendly interface and is built using Java P
 <li><em>Log in using default username ("admin") and password ("admin") - without the quotation marks i.e., ""</em></li>
 
 
+<<<<<<< HEAD
 ## Project Output
 
 ####Login Form: This page represents the first thing about our website. It leads on to the login point for its personnel.
+=======
+<li><em> clone the repository to your local machine.</em></li>
+<li><em> open the project using your prefered ide ie Netbeans, intellij
+</em></li>
+<li><em> build the project
+</em></li>
+<li><em> run the project
+</em></li>
+<li><em> log in using default username and password ie admin admin
+</em></li>
+
+
+## Project Output
+#### Login form: This page represents the first thing about our website. It leads on to the login point for its personnel.
+>>>>>>> fbb82032842dee05bb0fe591a4297bcb20b1d075
 ![HOME](/University-Management-System-Project-in-Java-Login-Page.png)
 
 ####Home Page: This page shows us what the user can see and access. He/she can add, remove update and upload the data. He/she can logout from the system through the homepage.
