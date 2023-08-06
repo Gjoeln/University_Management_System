@@ -46,11 +46,8 @@ This system project provides a user-friendly interface and is built using Java P
 <li><em>Log in using default username ("admin") and password ("admin") - without the quotation marks i.e., ""</em></li>
 
 
-<<<<<<< HEAD
 ## Project Output
 
-####Login Form: This page represents the first thing about our website. It leads on to the login point for its personnel.
-=======
 <li><em> clone the repository to your local machine.</em></li>
 <li><em> open the project using your prefered ide ie Netbeans, intellij
 </em></li>
@@ -64,22 +61,21 @@ This system project provides a user-friendly interface and is built using Java P
 
 ## Project Output
 #### Login form: This page represents the first thing about our website. It leads on to the login point for its personnel.
->>>>>>> fbb82032842dee05bb0fe591a4297bcb20b1d075
 ![HOME](/University-Management-System-Project-in-Java-Login-Page.png)
 
-####Home Page: This page shows us what the user can see and access. He/she can add, remove update and upload the data. He/she can logout from the system through the homepage.
+#### Home Page: This page shows us what the user can see and access. He/she can add, remove update and upload the data. He/she can logout from the system through the homepage.
 ![HOME](/University-Management-System-Project-in-Java-Main-Page.png)
 
-####Student Form: Here, we can add the new student details which will be stored in the back-end of the system. The details can also be updated in the update page.
+#### Student Form: Here, we can add the new student details which will be stored in the back-end of the system. The details can also be updated in the update page.
 ![HOME](/University-Management-System-Project-in-ASP.net-Add-New-Student.png)
 
-####Teacher Form: In this page, we can add the new teacher details which will also be stored in the back-end of the system. The details can also updated in the update page.
+#### Teacher Form: In this page, we can add the new teacher details which will also be stored in the back-end of the system. The details can also updated in the update page.
 ![HOME](/University-Management-System-Project-in-Java-Add-New-Teacher.png)
 
-####Marks and Subject Page: In this page, we can enter the subjects and marks scored in a particular subject alongside the Roll Number.
+#### Marks and Subject Page: In this page, we can enter the subjects and marks scored in a particular subject alongside the Roll Number.
 ![HOME](/University-Management-System-Project-in-Java-Input-Student-Mark.png)
 
-####Fee Payment Form : Here, we can the pay the fee dues of a particular student by using Roll No, Course, Branch and Semester to pay the fee.
+#### Fee Payment Form : Here, we can the pay the fee dues of a particular student by using Roll No, Course, Branch and Semester to pay the fee.
 ![HOME](/University-Management-System-Project-in-Java-Fee-Form.png)
 
 
