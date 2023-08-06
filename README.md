@@ -7,7 +7,7 @@
 - [**MARGARET GITHINJI**](https://github.com/MargaretGithinji)
 - [**EMMANUEL WAITHAKA**](https://github.com/EmmanuelWaithaka/)
 - [**HORRACE MUENDO**](https://github.com/Horrace254/)
-- [**FORTUNE BAMJI**](https://github.com/Forttim/Forttim)
+- [**FORTUNE BAMJI**](https://github.com/Forttim/)
 - [**VICTOR MUCHUI**](https://github.com/vmuchui/)
 - [**VICTOR MUCHUI**](https://github.com/vmuchui/)
 
