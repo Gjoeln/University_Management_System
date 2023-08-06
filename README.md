@@ -46,18 +46,6 @@ This system project provides a user-friendly interface and is built using Java P
 <li><em>Log in using default username ("admin") and password ("admin") - without the quotation marks i.e., ""</em></li>
 
 
-## Project Output
-
-<li><em> clone the repository to your local machine.</em></li>
-<li><em> open the project using your prefered ide ie Netbeans, intellij
-</em></li>
-<li><em> build the project
-</em></li>
-<li><em> run the project
-</em></li>
-<li><em> log in using default username and password ie admin admin
-</em></li>
-
 
 ## Project Output
 #### Login form: This page represents the first thing about our website. It leads on to the login point for its personnel.
@@ -89,13 +77,13 @@ This system project provides a user-friendly interface and is built using Java P
 <li><em>Java<em></li>
 <li><em>Netbeans IDE<em></li>
 <li><em>MySQL</em></li>
-<li><em>xampp</em></li>
+<li><em>Xampp</em></li>
 
 
 ## Support and Contact Details
 
-University Management System Project Helpline : [0716 881438]('call')<br>
-Email us [emmanuelwaithaka9@gmail.com](email)<br>
+University Management System Project Helpline: [0716 881438]('call')<br>
+Email us: [emmanuelwaithaka9@gmail.com](email)<br>
 
 
 ### License
