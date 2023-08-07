@@ -9,7 +9,7 @@
 - [**HORRACE MUENDO**](https://github.com/Horrace254/)
 - [**FORTUNE BAMJI**](https://github.com/Forttim/)
 - [**VICTOR MUCHUI**](https://github.com/vmuchui/)
-- [**VICTOR MUCHUI**](https://github.com/vmuchui/)
+- [**SUSAN MUTHONI**](https://github.com/vmuchui/)
 
 
 ## Description
