@@ -1,15 +1,15 @@
-# XXXXXXXXXXXXXXX
+# UNIVERSITY MANAGEMENT SYSTEM
 
 ### The University Management System Project is a comprehensive and fully functional solution developed to streamline the administrative, academic, and examination processes of educational institutions, including universities, colleges, and schools. <br><br> <em>2nd August 2023.</em>
 
 ## This Project was Developed by:
 
-- [**JOEL**](https://github.com/MargaretGithinji)
-- [**EMMANUEL WAITHAKA**](https://github.com/EmmanuelWaithaka/)
-- [**HORRACE MUENDO**](https://github.com/Horrace254/)
-- [**FORTUNE BAMJI**](https://github.com/Forttim/)
-- [**VICTOR MUCHUI**](https://github.com/vmuchui/)
-- [**SUSAN MUTHONI**](https://github.com/susan-code622)
+- [**ALICE NDUNG'U**](https://github.com/Kelsie-alice/)
+- [**KELVIN KAMAU**](https://github.com/Guru1198/)
+- [**JOHN MAINA**](https://github.com/Avaib-Technologies)
+- [**ZENA JUMA ISHMAIL**](https://github.com/zena185)
+- [**JOEL G. NJOROGE**](https://github.com/Gjoeln)
+- [**EUGENE MURULI**](https://github.com/susan-code622)
 
 
 ## Description
