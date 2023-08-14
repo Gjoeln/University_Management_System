@@ -4,11 +4,11 @@
 
 ## This Project was Developed by:
 
-- [**Alice Ndung'u**](https://github.com/Kelsie-alice)
-- [**EMMANUEL WAITHAKA**](https://github.com/EmmanuelWaithaka/)
-- [**HORRACE MUENDO**](https://github.com/Horrace254/)
-- [**FORTUNE BAMJI**](https://github.com/Forttim/)
-- [**VICTOR MUCHUI**](https://github.com/vmuchui/)
+- [**ALICE NDUNG'U**](https://github.com/Kelsie-alice)
+- [**KELVIN KAMAU**](https://github.com/Guru1198)
+- [**JOHN MAINA**](https://github.com/Avaib-Technologies )
+- [**ZENA JUMA ISHMAIL**](https://github.com/zena185)
+- [**JOEL G. NJOROGE**](https://github.com/Gjoeln)
 - [**SUSAN MUTHONI**](https://github.com/susan-code622)
 
 
