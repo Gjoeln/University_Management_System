@@ -38,7 +38,7 @@ This system project provides a user-friendly interface and is built using Java P
 
 ## Set Up Instructions
 
-<li><em>Clone the repository or download the source code from ( https://github.com/EmmanuelWaithaka/University_Management_System )</em></li>
+<li><em>Clone the repository or download the source code from (https://github.com/Gjoeln/University_Management_System/blob/master/README.md) </em></li>
 <li><em>Extract the downloaded zip file to a local directory.</em></li>
 <li><em>Open the project using your prefered IDE i.e., Netbeans, Intellij, etc.</em></li>
 <li><em>Build the project.</em></li>
@@ -82,8 +82,8 @@ This system project provides a user-friendly interface and is built using Java P
 
 ## Support and Contact Details
 
-University Management System Project Helpline: [0716 881438]('call')<br>
-Email us: [emmanuelwaithaka9@gmail.com](email)<br>
+University Management System Project Helpline: [0112979685]('call')<br>
+Email us: [joelgachoka86@gmail.com](email)<br>
 
 
 ### License
