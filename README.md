@@ -1,4 +1,4 @@
-# University Management System Project
+# XXXXXXXXXXXXXXX
 
 ### The University Management System Project is a comprehensive and fully functional solution developed to streamline the administrative, academic, and examination processes of educational institutions, including universities, colleges, and schools. <br><br> <em>2nd August 2023.</em>
 
