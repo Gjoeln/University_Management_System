@@ -9,7 +9,7 @@
 - [**JOHN MAINA**](https://github.com/Avaib-Technologies)
 - [**ZENA JUMA ISHMAIL**](https://github.com/zena185)
 - [**JOEL G. NJOROGE**](https://github.com/Gjoeln)
-- [**EUGENE MURULI**](https://github.com/susan-code622)
+- [**EUGENE MURULI**](https://github.com/eugenemuruli)
 
 
 ## Description
