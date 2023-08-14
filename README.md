@@ -4,7 +4,7 @@
 
 ## This Project was Developed by:
 
-- [**MARGARET GITHINJI**](https://github.com/MargaretGithinji)
+- [**Alice Ndung'u**](https://github.com/Kelsie-alice)
 - [**EMMANUEL WAITHAKA**](https://github.com/EmmanuelWaithaka/)
 - [**HORRACE MUENDO**](https://github.com/Horrace254/)
 - [**FORTUNE BAMJI**](https://github.com/Forttim/)
